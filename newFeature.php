@@ -1,3 +1,4 @@
+
 <h1>Here is my code</h1>
 <p>something great to look at</p>
 <p>well maybe not great, but it's something to look at</p>
@@ -13,3 +14,14 @@
 
 
 <p>Sounds like a pregnancy, for computers</p>
+
+<?php 
+
+print $fields('sexy_lady');
+
+
+
+/>
+
+
+
